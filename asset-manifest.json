@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/gruv-react/static/js/main.4994f315.chunk.js",
+    "main.js.map": "/gruv-react/static/js/main.4994f315.chunk.js.map",
+    "runtime-main.js": "/gruv-react/static/js/runtime-main.6fa3a61b.js",
+    "runtime-main.js.map": "/gruv-react/static/js/runtime-main.6fa3a61b.js.map",
+    "static/js/2.37f323c2.chunk.js": "/gruv-react/static/js/2.37f323c2.chunk.js",
+    "static/js/2.37f323c2.chunk.js.map": "/gruv-react/static/js/2.37f323c2.chunk.js.map",
+    "index.html": "/gruv-react/index.html",
+    "precache-manifest.bbccac71c4cbe24ddd6a9bfbadd551db.js": "/gruv-react/precache-manifest.bbccac71c4cbe24ddd6a9bfbadd551db.js",
+    "service-worker.js": "/gruv-react/service-worker.js",
+    "static/js/2.37f323c2.chunk.js.LICENSE.txt": "/gruv-react/static/js/2.37f323c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fa3a61b.js",
+    "static/js/2.37f323c2.chunk.js",
+    "static/js/main.4994f315.chunk.js"
+  ]
+}
